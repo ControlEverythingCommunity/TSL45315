@@ -11,7 +11,7 @@ Steps to install pi4j are provided at:
 http://pi4j.com/install.html
 
 Download (or git pull) the code in pi.
-Compile the java program. 
+Compile the java program.
 $ >pi4j  TSL45315.java
 
 Run the java program as.
