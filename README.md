@@ -3,7 +3,12 @@
 TSL45315 Ambient Light Sensor 
 
 The TSL45315 device, provides ambient light sensing (ALS), giving direct lux output.
+This Device is available from ControlEverything.com [SKU: TSL45315_I2CS]
+
+https://www.controleverything.com/content/Light?sku=TSL45315_I2CS
+
 This Sample code can be used with Raspberry pi.
+
 
 ##Java 
 Download and install pi4j library on Raspberry pi.
