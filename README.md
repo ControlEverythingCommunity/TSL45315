@@ -6,8 +6,6 @@ The TSL45315 device, provides ambient light sensing (ALS), giving direct lux out
 This Device is available from ControlEverything.com [SKU: TSL45315_I2CS]
 
 https://www.controleverything.com/content/Light?sku=TSL45315_I2CS
->This method accepts 1 int argument specifying the channel to be read.  This method will return the current reading on that channel in amps as a double variable.
-
 
 This Sample code can be used with Raspberry pi.
 
