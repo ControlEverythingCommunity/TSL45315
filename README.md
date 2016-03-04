@@ -18,12 +18,12 @@ Download (or git pull) the code in pi.
 
 Compile the java program.
 ```cpp
-$ >pi4j  TSL45315.java
+$> pi4j  TSL45315.java
 ```
 
 Run the java program as.
 ```cpp
-$ >pi4j  TSL45315
+$> pi4j  TSL45315
 ```
 
 ##Python 
@@ -34,7 +34,7 @@ https://pypi.python.org/pypi/smbus-cffi/0.5.1
 Download (or git pull) the code in pi. Run the program
 
 ```cpp
-$ >python TSL45315.py
+$> python TSL45315.py
 ```
 
 The code output is the lux value of ambient light.
