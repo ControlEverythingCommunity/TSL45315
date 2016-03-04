@@ -18,12 +18,12 @@ Download (or git pull) the code in pi.
 
 Compile the java program.
 ```cpp
-$> pi4j  TSL45315.java
+$> pi4j TSL45315.java
 ```
 
 Run the java program as.
 ```cpp
-$> pi4j  TSL45315
+$> pi4j TSL45315
 ```
 
 ##Python 
