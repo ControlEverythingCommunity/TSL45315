@@ -2,4 +2,5 @@ lang:java
 lang:python
 lang:arduino
 lang:particle
+lang:C
 sku:TSL45315_I2CS
