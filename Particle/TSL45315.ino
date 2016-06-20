@@ -69,6 +69,5 @@ void loop()
     
   // Output data to dashboard
   Particle.publish("Ambient Light luminance :", String(luminance));
-    
   delay(1000);
 }
